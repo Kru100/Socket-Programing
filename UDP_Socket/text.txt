@@ -1,0 +1,2 @@
+The Link of Resouces for Theory: https://akuchhattri14.medium.com/basics-of-socket-programming-in-python-using-udp-protocol-4e08386a6d75
+The UDP sockets are Connection-less socket so we don't have to connect the client socket with servers.
